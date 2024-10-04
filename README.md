@@ -36,10 +36,10 @@ This repository serves as the central hub for the BBS framework and includes:
 
 This repository connects to several other research projects within the arts that test the principles of BBS:
 
-- [**Blended Reality Performance System (BRPS)**](https://github.com/user/Blended-Reality-Performance-System): A system that applies BBS principles to create seamless performances integrating physical and virtual elements.
-- [**Blended Shadow Puppet (BSP)**](https://github.com/user/Blended-Shadow-Puppet): An experimental project within BRPS, exploring the interaction between physical puppets and virtual shadows, adding unique layers of mediation pathways.
-- [**AI Collaboration Results**](https://github.com/user/AI-Collaboration-Results): Gathers data and insights from AI collaboration experiments, showcasing how AI can be a partner in blended spaces.
-- [**Combinative Reality Mediation**](https://github.com/user/Combinative-Reality-Mediation): Research and development of mediation pathways and their syntax for use in BBS projects.
+- [**Blended Reality Performance System (BRPS)**](https://github.com/CHI-CityTech/Blended-Reality-Performance-System): A system that applies BBS principles to create seamless performances integrating physical and virtual elements.
+- [**Blended Shadow Puppet (BSP)**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet): An experimental project within BRPS, exploring the interaction between physical puppets and virtual shadows, adding unique layers of mediation pathways.
+- [**AI Collaboration Results**](https://github.com/CHI-CityTech/AI-Collaboration-Results): Gathers data and insights from AI collaboration experiments, showcasing how AI can be a partner in blended spaces.
+- [**Combinative Reality Mediation**](https://github.com/CHI-CityTech/Combinative-Reality-Mediation): Research and development of mediation pathways and their syntax for use in BBS projects.
 
 ## Getting Started
 
