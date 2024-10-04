@@ -1,5 +1,5 @@
 # Balanced-Blended-Space
-Balanced Blended Space (BBS) is a universal framework for describing any communication across physical, virtual, and conceptual spaces. It does so by defining mediation pathways that blend real and digital experiences, with applications in the arts and other fields. This repository focuses on the principles, syntax, and standards that define the BBS model.
+Balanced Blended Space (BBS) is a universal theoretical framework integrating physical, virtual, and conceptual spaces. It explores mediation pathways, modular systems, and AI collaboration to create seamless interactions, with applications across various domains, tested in performing arts and beyond
 
 # Balanced Blended Space (BBS) Framework
 
