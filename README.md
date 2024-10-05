@@ -13,6 +13,8 @@ The BBS framework operates on the principle of **balanced integration** between 
 - **Blended Space**: A space where the boundaries between physical and virtual worlds are intentionally blurred, creating a unified interaction environment.
 - **AI as a Collaborator**: The BBS framework treats artificial intelligence as an equal collaborator in communication and creation processes, not just a tool.
 
+![BBS Metaproject Configuration 2024-10-05](https://github.com/user-attachments/assets/237fd185-020a-4351-8878-2219ef5548e5)
+
 ## Key Components
 
 This repository serves as the central hub for the BBS framework and includes:
@@ -20,6 +22,7 @@ This repository serves as the central hub for the BBS framework and includes:
 - **Core Principles**: Documentation of the theoretical foundation of the BBS model, including the principles of balanced blending between physical, virtual, and conceptual spaces.
 - **Universal Communication Standards**: Guidelines for applying BBS across various domains, ensuring seamless interaction between spaces and mediation pathways.
 - **Mediation Pathway Syntax**: Research and development of a syntax to describe how communication and interaction flow through physical, virtual, and conceptual layers.
+- 
 
 ### Folders
 
